@@ -90,7 +90,7 @@ Este projeto pode ser útil para:
 
 ---
 
-## 📌 Conclusão
+##  Conclusão
 
 Este projeto busca contribuir com soluções práticas e tecnológicas no enfrentamento à desinformação, promovendo uma internet mais segura, crítica e informada.
 
