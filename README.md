@@ -2,8 +2,6 @@
 
 Este repositório explora o uso de técnicas de machine learning para identificar notícias falsas. O projeto visa construir um modelo robusto capaz de classificar artigos de notícias como verdadeiros ou falsos, contribuindo para o combate à desinformação.
 
-    Descrição do Banco de Dados
-
 O banco de dados "Detecção de Notícias Falsas" contém registros de artigos de notícias com variáveis que geralmente incluem elementos textuais, como os títulos e/ou o conteúdo completo dos artigos. Cada registro é acompanhado por um rótulo que indica se a notícia é falsa ou verdadeira, caracterizando assim um problema de classificação binária.
 
 Além do conteúdo textual, o banco de dados também pode incluir metadados, como a data de publicação ou a categoria da notícia, que podem ser valiosos para análises exploratórias mais profundas. Essa estrutura permite a extração de informações relevantes sobre o vocabulário usado em notícias autênticas versus notícias falsas, possibilitando a identificação de padrões linguísticos e temáticos associados à disseminação de desinformação.
