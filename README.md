@@ -1,10 +1,10 @@
-# 🧠 Detecção de Notícias Falsas: Uma Abordagem de Machine Learning
+#  Detecção de Notícias Falsas: Uma Abordagem de Machine Learning
 
 Este repositório explora o uso de técnicas de *Machine Learning* para identificar notícias falsas. O objetivo é construir um modelo robusto capaz de classificar artigos jornalísticos como **verdadeiros** ou **falsos**, contribuindo diretamente para o combate à desinformação.
 
 ---
 
-## 📚 Sobre o Conjunto de Dados
+##  Sobre o Conjunto de Dados
 
 O banco de dados **"Detecção de Notícias Falsas"** contém registros de artigos com variáveis que incluem elementos textuais, como:
 
@@ -18,7 +18,7 @@ Essa estrutura permite a extração de informações relevantes sobre o vocabul�
 
 ---
 
-## 🎯 Objetivos do Projeto
+## Objetivos do Projeto
 
 - **Construção de um Modelo Preditivo:** Desenvolver um classificador capaz de identificar com boa precisão se uma notícia é falsa ou verdadeira, utilizando técnicas de PLN e modelos supervisionados como Naive Bayes ou Regressão Logística.
 - **Análise Exploratória e Extração de Características:** Entender a distribuição dos rótulos, possíveis desequilíbrios e palavras mais relevantes para cada classe por meio de visualizações (nuvens de palavras, gráficos de frequência etc.).
@@ -27,7 +27,7 @@ Essa estrutura permite a extração de informações relevantes sobre o vocabul�
 
 ---
 
-## 🤖 Justificativa para a Abordagem de Machine Learning
+##  Justificativa para a Abordagem de Machine Learning
 
 Dado o objetivo de classificar notícias como falsas ou verdadeiras, a técnica de **classificação supervisionada** é a abordagem mais apropriada:
 
@@ -37,7 +37,7 @@ Dado o objetivo de classificar notícias como falsas ou verdadeiras, a técnica 
 
 ---
 
-## 🧪 Tecnologias e Ferramentas Utilizadas
+##  Tecnologias e Ferramentas Utilizadas
 
 - **Linguagem de Programação:** Python
 - **Bibliotecas de PLN:** NLTK, spaCy
@@ -48,7 +48,7 @@ Dado o objetivo de classificar notícias como falsas ou verdadeiras, a técnica 
 
 ---
 
-## 🧭 Etapas do Projeto
+##  Etapas do Projeto
 
 1. **Aquisição e Preparação de Dados:** Coleta, limpeza e pré-processamento textual.
 2. **Análise Exploratória de Dados (EDA):** Visualizações para entender padrões e distribuição dos dados.
@@ -59,7 +59,7 @@ Dado o objetivo de classificar notícias como falsas ou verdadeiras, a técnica 
 
 ---
 
-## ⚖️ Considerações Éticas
+##  Considerações Éticas
 
 O uso de IA para detecção de desinformação exige responsabilidade. Este projeto adota os seguintes princípios:
 
@@ -69,7 +69,7 @@ O uso de IA para detecção de desinformação exige responsabilidade. Este proj
 
 ---
 
-## 🧩 Possíveis Aplicações
+##  Possíveis Aplicações
 
 - Sistemas automatizados de *fact-checking*
 - Ferramentas de apoio editorial para jornalistas
@@ -78,7 +78,7 @@ O uso de IA para detecção de desinformação exige responsabilidade. Este proj
 
 ---
 
-## 👥 Público-Alvo
+##  Público-Alvo
 
 Este projeto pode ser útil para:
 
